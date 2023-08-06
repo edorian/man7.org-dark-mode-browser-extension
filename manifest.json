@@ -1,0 +1,16 @@
+{
+    "name": "man7.org Dark Mode",
+    "description": "Dark mode for man7.org - CSS only",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.man7.org/*"
+            ],
+            "css": [
+                "man7.org.css"
+            ]
+        }
+    ]
+}

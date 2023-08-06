@@ -1,0 +1,22 @@
+h2 {
+    color: #bb0000 !important;
+}
+i {
+    color: #009800 !important;
+}
+b {
+    color: #cf5301 !important;
+}
+a[href="#top_of_page"] {
+    display: none;
+}
+div.nav-bar {
+    background-color: #111 !important;
+}
+body {
+    background-color: #111 !important;
+    color: #ddd !important;
+}
+div[class="footer"] {
+    display: none;
+}
